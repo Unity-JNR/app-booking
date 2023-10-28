@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: lightblue;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+
+table, th, td {
+    border: 1px solid;
+}

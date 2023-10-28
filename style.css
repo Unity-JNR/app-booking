@@ -1,0 +1,71 @@
+
+*{
+    box-sizing: border-box;
+}
+body{
+    background-image: url(images/house.jpeg);
+}
+
+input, label, select{
+    display: flex;
+  border-radius: 4px;
+  resize: vertical;
+ 
+
+}
+
+label{
+    cursor: default;
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+   
+}
+
+form{
+   align-content: center;
+   padding: 20px 20px 10px;
+}
+
+#saves{
+    background-color: lightblue;
+   border: none;
+   display: inline-block;
+   transition-duration: 0.4s;
+}
+
+
+
+
+#saves:hover{
+    background-color:white; /* Green */
+  color: black;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+}
+
+#saves:active {
+    background-color: lightblue;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+select {
+    display: flex;
+    display: inline-block;
+    /* padding: 16px 20px; */
+    border: none;
+    border-radius: 4px;
+    background-color: #f1f1f1;
+  }
+
+  input[type="date"] { 
+    background: transparent;
+    color: white;
+    padding: 12px;
+    width: fit-content;
+    height: max-content;
+  }
+

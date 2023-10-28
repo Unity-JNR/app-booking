@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Unity",
+        "surname": "Demas",
+        "email": "unitydemas12@gmail.com",
+        "checkin": "2022-10-17",
+        "checkout": "2022-10-22",
+        "hotel": " The Commodore Hotel",
+        "total days": 5
+    },
+    {
+        "name": "Unity",
+        "surname": "Demas",
+        "email": "unitydemas12@gmail.com",
+        "checkin": "2022-10-18",
+        "checkout": "2022-10-25",
+        "hotel": " The Commodore Hotel",
+        "total days": 7
+    },
+    {
+        "name": "Unity",
+        "surname": "Demas",
+        "email": "james007@gmail.com",
+        "checkin": "2022-10-17",
+        "checkout": "2022-10-25",
+        "hotel": " The Commodore Hotel",
+        "total days": 8
+    },
+    {
+        "name": "shadelene",
+        "surname": "fredicks",
+        "email": "shefred@gmail.com",
+        "checkin": "2022-10-20",
+        "checkout": "2022-10-21",
+        "hotel": "Hotel transylvania",
+        "total days": 1
+    }
+]
